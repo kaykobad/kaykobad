@@ -2,6 +2,7 @@
 
 ## 🔥 Streak stats
 <p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaykobad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaykobad"/>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaykobad)](https://git.io/streak-stats)
 </p>
 
