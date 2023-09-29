@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaykobad
-- 👀 I’m interested in Flutter, Python and Django
-- 🌱 I’m currently learning ML and some advanced Flutter features
-- 💞️ I’m looking to collaborate on opensource project related to Flutter, Python, Django or ML
+- 👋 Hi, I am @kaykobad
+- 👀 Currently doing my research on Multimodal Machine Learning and Computer Vision
+- 🌱 Previously I worked as a Software Engineer in bKash Limited and Samsung R&D Institute Bangladesh
+- 💞️ I am looking to collaborate on research and opensource projects related to Machine Learning and Computer Vision
 - 📫 You can reach me over email at: kaykobadreza@gmail.com
